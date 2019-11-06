@@ -20,13 +20,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'wp-blog-2019' );
+define( 'DB_NAME', 'mipagina-light' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'admin' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'bc9de9c17bf17551a2e04479f86617124745f27172b2e009' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
